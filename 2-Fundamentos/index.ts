@@ -35,3 +35,4 @@ let inference = "Teste"
 console.log("uou")
 //erro abaixo pois ele entendeu como string
 //inference = 5
+
